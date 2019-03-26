@@ -1,0 +1,7 @@
+C:\Users\rap_p\Desktop\reformat\Reformat\obj\Debug\Reformat.csprojAssemblyReference.cache
+C:\Users\rap_p\Desktop\reformat\Reformat\obj\Debug\Reformat.csproj.CoreCompileInputs.cache
+C:\Users\rap_p\Desktop\reformat\Reformat\bin\Debug\Reformat.exe.config
+C:\Users\rap_p\Desktop\reformat\Reformat\bin\Debug\Reformat.exe
+C:\Users\rap_p\Desktop\reformat\Reformat\bin\Debug\Reformat.pdb
+C:\Users\rap_p\Desktop\reformat\Reformat\obj\Debug\Reformat.exe
+C:\Users\rap_p\Desktop\reformat\Reformat\obj\Debug\Reformat.pdb
